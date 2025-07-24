@@ -1,5 +1,7 @@
 # DieStudyTool
 
+Diese Arbeit integriert Teile der Arbeit von Markus Fiedler.
+
 ## Requirements
 ```text
 python: 3.11
